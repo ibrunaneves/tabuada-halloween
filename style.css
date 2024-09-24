@@ -105,12 +105,12 @@ footer {
     }
   
     img {
-      width: 120px; /* Reduzir ainda mais o tamanho da imagem */
-      height: 120px;
+      width: auto; /* Reduzir ainda mais o tamanho da imagem */
+      height: auto;
     }
   
     section {
-      width: 80%; /* Ocupar toda a largura disponÃ­vel */
+      width: auto; /* Ocupar toda a largura disponível */
       padding: 5px 10px 15px;
     }
   }
